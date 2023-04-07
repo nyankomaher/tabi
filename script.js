@@ -23,10 +23,10 @@ const RAW_MAPS = `
 福島県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1BqL-sZampmYG8NgAdBI3n6B4KenzsTA&ll=37.35271062804276%2C140.40273639999998&z=10
 茨城県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=14THCiMBg2vQLKEwXY7mFPxJFVAmkvlw&ll=36.27014881748668%2C140.50280535000005&z=9
 栃木県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1iqQx3RbXiGbFkbN72s5HNLE7rhh5mSU&ll=37.09828218350481%2C140.0010725&z=18
-群馬県	
+群馬県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1wU5oNren_mc0oNh6nc8UQdYsdPYnOz8&ll=36.55040177559503%2C139.37293709999997&z=18
 埼玉県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1UKnwFnZNrCmjJkRstycbtlniksqru0A&ll=35.94401223648208%2C139.28655885&z=11
 千葉県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1n8KqNwke0jXLwHFmDS4TdMIunbCpSg0&ll=35.39170219808454%2C140.30935895000005&z=9
-東京都	
+東京都	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1v0cNigxarvTuGr7DzIsBd3F6q0pKBsY&ll=35.69858160162444%2C139.7926743663561&z=13
 神奈川県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1qc5DBxH3a96pXUa1YA39ldaiSbRtfDc&ll=35.34524945550467%2C139.2718546&z=11
 新潟県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1A3AlKP0i8JFsDS1ReaQrB5WIBSYiWlQ&ll=37.80919236006261%2C139.19416624999997&z=9
 富山県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1gtonuVrAHpiRHpjuAY95ep12Rv7TcEs&ll=36.5572449977637%2C137.06865725000006&z=11
@@ -51,7 +51,7 @@ const RAW_MAPS = `
 山口県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1sL_pzyt1Z6eTHKNsZSDqc5ZZIeamCb0&ll=34.41970148401275%2C131.0626655&z=18
 徳島県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1MddlnfpKu6qdyXkHhHEQzIV4VN3hWmg&ll=34.04292653930738%2C133.95355884999998&z=12
 香川県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1jI4JWNCD8Rp2xy8NpMgUh6uGFXymrlE&ll=34.16082901974916%2C133.654871&z=18
-愛媛県	
+愛媛県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1y_tRT53p3VbRjk8CarZFFqnYugkP91k&ll=33.587063543460445%2C132.8525545&z=9
 高知県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1rjzp3sRWPQuhzePg61VjuhO1yqP9Bdg&ll=33.10411688468248%2C133.39865329999998&z=9
 福岡県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1iRHe8pgmHmwf7fwhZHD5AZPls4sRPz9D&ll=33.47710150882733%2C130.8895189&z=9
 佐賀県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1iRBumoND_eKK_0zzkqkvf9E1I6TqNbk&ll=33.08102348431928%2C130.1090007&z=18
