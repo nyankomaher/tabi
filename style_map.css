@@ -542,3 +542,14 @@ a:hover {
 
 
 } /* レスポンシブ max-500px */
+
+
+
+@media screen and (min-width: 777px) {
+	body {
+		height: 100vh;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+}
