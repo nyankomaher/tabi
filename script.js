@@ -61,6 +61,7 @@ const RAW_MAPS = `
 宮崎県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1qXq9C1-Wf9hargZuFqXemtdYFk7T98Y&ll=32.19015244864129%2C131.212327&z=9
 鹿児島県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1TM3U4wyXw1wrJPwjS9LXzkGKEAerNrk&ll=31.58127479550831%2C130.35830475&z=9
 沖縄県	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1ggM4HtRlZ9_tC9HInFnS49easdq5u5g&ll=26.502018101356285%2C128.0129047&z=13
+足立区	https://www.google.com/maps/d/u/0/edit?hl=ja&mid=1nf6b4vufeZgh_nX4gajujMzN4VEZ2D0&ll=35.78007398008128%2C139.79556535&z=13
 `;
 
 const MAPS = RAW_MAPS.split(/[\n\r]+/)
